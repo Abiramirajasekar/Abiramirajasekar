@@ -2,7 +2,7 @@ console.log("Aspiring Full Stack Developer, Nature lover ❤️, and fashion des
 
 ### Hi there!👋 Abirami here
 
-<img src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="gif" />
+<img marginleft=10px src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="gif" />
 
 - ❤  In love with JavaScript ...
 
