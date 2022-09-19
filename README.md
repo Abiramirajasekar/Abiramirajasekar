@@ -34,6 +34,4 @@ console.log("Aspiring Full Stack Developer, Nature lover ❤️, and fashion des
 <img width ='32px' src ='https://img.icons8.com/color/452/css3.png'>
  <img width ='32px' src ='https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png'> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abiramirajasekar&show_icons=true&locale=en&layout=compact" alt="akshaya" /></p>
  </div>
-</div>
 
- </div>
