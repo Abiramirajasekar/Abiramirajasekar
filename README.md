@@ -32,10 +32,9 @@ console.log("Aspiring Full Stack Developer, Nature lover ❤️, and fashion des
  <img width ='32px' src ='https://tse2.mm.bing.net/th?id=OIP.xQJlilCdJ7U2ebPvc8DYLwHaIJ&pid=Api&P=0'> 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abiramirajasekar&show_icons=true&locale=en&layout=compact" alt="abi" />
- 
+ <div display=flex>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abiramirajasekar&" alt="abi" /></p>
- 
- <img paddingleft=20% src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="gif" />
+ <img width=50% src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="gif" /></div>
  </div>
 
 
