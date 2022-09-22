@@ -33,6 +33,8 @@ console.log("Aspiring Full Stack Developer, Nature lover ❤️, and fashion des
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abiramirajasekar&show_icons=true&locale=en&layout=compact" alt="abi" />
  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abiramirajasekar&" alt="abi" /></p>
+ 
  <img paddingleft=20% src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="gif" />
  </div>
 
