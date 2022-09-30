@@ -1,4 +1,4 @@
-console.log("Aspiring Full Stack Developer, Nature lover ❤️!");
+console.log("Aspiring Full Stack Developer, Nature lover ❤️ & Fashion Designer!");
 
 ### Hi there! 👋 Abirami here
 <img  src="https://c.tenor.com/zMdZBjJ7gPkAAAAd/aesthetic-wallpaper.gif" alt=""/>
